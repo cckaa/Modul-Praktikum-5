@@ -211,7 +211,7 @@ while True:
    apabila kita menginputkan selain yang ada pada menu (t, u, h, c, l, s) maka kita akan diminta untuk memilih menu yang tersedia
    
    
-### Flowchart
+
 
 
   
